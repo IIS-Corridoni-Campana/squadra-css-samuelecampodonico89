@@ -1,0 +1,18 @@
+/* Regola 1: Stile generale per il corpo della pagina (tag "body") */
+body {
+    font-family: Verdana;
+    font-size: 20px;
+    background-color: #d1d0d1;
+    color: #000000;
+    margin: 100px;
+    line-height: 1;
+}
+
+
+
+/* Regola 2: Stile per il titolo principale (tag "h1") */
+h1 {
+    color: #e72727; 
+    text-align: center;
+    padding-bottom: 10px;
+}
